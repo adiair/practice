@@ -6,7 +6,6 @@ public class palindrome {
     }
 
     public static boolean pal(String str){
-
         int left = 0;
         int right = str.length()-1;
         
